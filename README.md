@@ -21,19 +21,19 @@ To install, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/chukshon/React-project_Basic-tabs.git
+sudo git clone https://github.com/chukshon/React-mini-project_Basic-tabs.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/chukshon/React-project_Basic-tabs.git
+git clone https://github.com/chukshon/React-mini-project_Basic-tabs.git
 ```
 
 After creation and using either yarn or npm install, your project should look like this:
 
 ```
-React-project_food-menu/
+React-mini-project_Basic-tabs/
   node_modules/
   public/
     index.html
