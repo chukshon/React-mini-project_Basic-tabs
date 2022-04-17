@@ -2,7 +2,6 @@ Hey! I'm on a mission to learn react. I'll be posting series of mini-react proje
 
 # Mini-React-project_basic-Tabs
 
-# React-project_basic-food-menu
 This is app that shows how a simple tab works This is just a basic project hope you enjoy it. This was built with ReactJS, Html and CSS.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
